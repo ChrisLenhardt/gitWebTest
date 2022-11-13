@@ -1,3 +1,7 @@
 p{
-    color:aqua;
+    color:rgb(0, 115, 255);
+    background-color: coral;
+}
+body{
+    background-color: cornflowerblue;
 }
